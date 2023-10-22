@@ -1,4 +1,5 @@
-## 👋 Hi, I'm Eduardo Castro 
+
+![IDE_1](https://github.com/EduardoLimaCastro/EduardoLimaCastro/assets/139716506/63ec0955-bdc5-4e66-a70d-14b76bfc4a38)
 
 I'm a passionate full-stack developer based in Fortaleza / Brazil. I love to code, explore new technologies, and build awesome projects. My favorite tech stack includes JavaScript, Angular, and React.
 
