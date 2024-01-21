@@ -3,7 +3,7 @@
 
 I'm a passionate full-stack developer based in Fortaleza / Brazil. I love to code, explore new technologies, and build awesome projects. My favorite tech stack includes JavaScript, Angular, and React.
 
-<a href="https://www.linkedin.com/in/eduardo-castro-0bb28973/" target="_blank">
+<a href="https://www.linkedin.com/in/eduardo-lima-castro/" target="_blank">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 <a href = "https://www.frontendmentor.io/profile/EduardoLimaCastro" target="_blank">
