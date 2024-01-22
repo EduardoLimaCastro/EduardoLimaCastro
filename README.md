@@ -12,6 +12,11 @@ I'm a passionate full-stack developer based in Fortaleza / Brazil. I love to cod
 <a href = "mailto:eduardo.alencar.castro@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-critical?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail Badge">
 </a>
+</br>
+<a href = "https//:www.eduardocastro.site" target="_blank">
+  :globe_with_meridians: Portifolio Pessoal
+</a>
+
 
 ### :gear: Skills
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,angular,react,ts,sass,git,nodejs,mongodb,figma)](https://skills.thijs.gg)
