@@ -13,7 +13,7 @@ I'm a passionate full-stack developer based in Fortaleza / Brazil. I love to cod
   <img src="https://img.shields.io/badge/-Gmail-critical?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail Badge">
 </a>
 </br>
-<a href = "https//:www.eduardocastro.site" target="_blank">
+<a href = "https://www.eduardocastro.site/" target="_blank">
   :globe_with_meridians: Portifolio Pessoal
 </a>
 
