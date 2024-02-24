@@ -19,7 +19,7 @@ I'm a passionate full-stack developer based in Fortaleza / Brazil. I love to cod
 
 
 ### :gear: Skills
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,angular,react,ts,sass,git,nodejs,mongodb,figma)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,angular,react,ts,sass,git,nodejs,mongodb,mysql,java,figma)](https://skills.thijs.gg)
 
 - 💻 Full-Stack Development
 - 🌐 Web Development
