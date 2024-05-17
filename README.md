@@ -1,7 +1,7 @@
 
 ![IDE_1](https://github.com/EduardoLimaCastro/EduardoLimaCastro/assets/139716506/63ec0955-bdc5-4e66-a70d-14b76bfc4a38)
 
-I'm a passionate full-stack developer based in Fortaleza / Brazil. I love to code, explore new technologies, and build awesome projects. My favorite tech stack includes JavaScript, Angular, and React.
+I'm a passionate full-stack developer based in Fortaleza / Brazil. I love to code, explore new technologies, and build awesome projects. My favorite tech stack includes NextJs, React, NodeJs and TypeSript.
 
 <a href="https://www.linkedin.com/in/eduardo-lima-castro/" target="_blank">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
