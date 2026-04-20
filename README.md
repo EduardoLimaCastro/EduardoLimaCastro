@@ -1,36 +1,46 @@
 
-![IDE_1](https://github.com/EduardoLimaCastro/EduardoLimaCastro/assets/139716506/63ec0955-bdc5-4e66-a70d-14b76bfc4a38)
 
-I'm a passionate backend developer based in Fortaleza / Brazil. I love to code, explore new technologies, and build awesome projects. My favorite tech stack includes Java / Spring Boot and C# / .NET.
+<div align="center">
+  <img src="https://github.com/EduardoLimaCastro/EduardoLimaCastro/assets/139716506/63ec0955-bdc5-4e66-a70d-14b76bfc4a38" />
 
-<a href="https://www.linkedin.com/in/eduardo-lima-castro/" target="_blank">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-<a href = "mailto:eduardo.alencar.castro@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-critical?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail Badge">
-</a>
-</br>
-<a href = "https://www.eduardocastro.site/" target="_blank">
-  :globe_with_meridians: Portifolio Pessoal
-</a>
+  # Eduardo Lima Castro
+  ### Backend Developer · Fortaleza, Brazil
 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-lima-castro/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.alencar.castro@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23228B22.svg?style=for-the-badge&logo=globe&logoColor=white)](https://www.eduardocastro.site/)
+</div>
 
-### :gear: Skills
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,angular,react,ts,sass,git,nodejs,mongodb,mysql,java,figma)](https://skills.thijs.gg)
+---
 
-- 💻 Full-Stack Development
-- 🌐 Web Development
-- 📱 Angular Framework
-- 🚀 React Library
-- 🤖 SASS
-- 📊 MySql
+Passionate backend developer who loves building robust, scalable systems. My go-to stack is **Java / Spring Boot** and **C# / .NET** — and I'm always exploring new technologies to grow.
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLimaCastro&theme=radical)](https://github.com/EduardoLimaCastro/github-readme-stats)
-  
-### :bulb: What motivates me
-I'm driven by the desire to study and apply what I learned by coding amazing apps. My desire to improve continuously has driven me to be enhance my skills and knoledge.
+---
 
-### :star: Notable Achievements
-- MBA Full-Stack developer
+## 🛠️ Tech Stack
 
-Thanks for visiting my profile! 🚀
+| Category | Technologies |
+|---|---|
+| **Languages** | Java · C# · TypeScript|
+| **Frameworks** | Spring Boot · .NET · Node|
+| **Messaging** | Apache Kafka |
+| **Databases** | MySQL · PostgreSQL |
+| **DevOps** | Docker |
+
+---
+
+## 💡 What drives me
+
+> I'm motivated by the desire to continuously learn and apply that knowledge by building amazing software. Every project is an opportunity to sharpen my skills and make an impact.
+
+---
+
+## 🏆 Achievements
+
+- 🎓 MBA in Full-Stack Development
+
+---
+
+## 📊 GitHub Stats
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLimaCastro&theme=radical&layout=compact)](https://github.com/EduardoLimaCastro/github-readme-stats)
