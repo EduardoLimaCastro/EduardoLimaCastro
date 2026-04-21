@@ -41,6 +41,14 @@ Passionate backend developer who loves building robust, scalable systems. My go-
 
 ---
 
+## 🚀 Featured Projects
+
+- Financial Transactions API (Java + Spring Boot + Kafka)
+- Microservices with DDD and Hexagonal Architecture
+- Observability with Prometheus + Grafana
+
+---
+
 ## 📊 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLimaCastro&theme=radical&layout=compact)](https://github.com/EduardoLimaCastro/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLimaCastro&theme=radical&layout=compact&hide=html,css,scss)
