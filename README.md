@@ -12,7 +12,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo_Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-lima-castro)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.alencar.castro@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 </div>
 
