@@ -34,8 +34,7 @@ without communication friction — but my deep expertise and career focus is **J
 
 ## 💼 Professional Experience
 
-**Backend Java Developer (Mid-Level) — [BSN Tecnologia](https://www.linkedin.com/company/bsn-tecnologia/)** *(2024 – Present)*
-
+**Backend Java Developer (Mid-Level) — [BSN Tecnologia](https://www.linkedin.com/company/bsntecnologia/posts/?feedView=all)** *(2024 – Present)*
 Fintech platform serving **200k+ active users** in production.
 
 - Microservices communication via **Apache Kafka** — async, decoupled, resilient event-driven architecture
